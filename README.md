@@ -1,4 +1,5 @@
 # Projet Encolleuse
+![](https://repository-images.githubusercontent.com/497081650/18161d27-1aee-4c9a-aa9e-77cbe2dcc812)
 ## Français
 ### Contexte
 Madame Wally Ash supervise un projet visant à intégrer un prototype d'encolleuse dans une chaîne de production. Le prototype d'encolleuse a été conçu par la société Tobeca à partir d'une imprimante 3D, la Creality CR20.
